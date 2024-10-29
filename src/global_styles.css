@@ -1,0 +1,12 @@
+@import './global_styles.css';
+/* global_styles.css */
+
+/* Example global styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h2, h3 {
+  color: #333;
+}
